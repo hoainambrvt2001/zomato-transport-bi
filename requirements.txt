@@ -1,0 +1,27 @@
+# Core data & ML
+pandas
+numpy
+scikit-learn
+xgboost
+lightgbm
+shap
+kneed
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Geospatial
+folium
+branca
+geopy
+
+# Google Sheets data access (used by the original Colab notebooks)
+gspread
+gspread-dataframe
+oauth2client
+
+# Notebook environment
+jupyterlab
+ipython
